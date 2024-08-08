@@ -55,7 +55,7 @@ I am a Android Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjEx
 
 
         
-https://github-readme-streak-stats.keyluxy.com/?user=keyluxy
+https://github-readme-streak-stats.keyluxy.com/?user=https://github.com/keyluxy/Amir-Gabitov
 
     
 
