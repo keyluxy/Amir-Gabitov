@@ -20,7 +20,13 @@
 ### :technologist: About Me :
 
         
-I am a Full Android Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuZ3dpYjViNDludTV3bnp1enVhaHR2eGpyNnFkajRlcXh4cnZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="30"> from Kazan.
+I am a Android Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuZ3dpYjViNDludTV3bnp1enVhaHR2eGpyNnFkajRlcXh4cnZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="30"> from Kazan.
+
+- :telescope: I am an aspiring Android developer from Russia/Kazan.
+
+- :seedling: I'm currently enrolled in school 21.
+
+- :zap: In my spare time, I study Java and read articles about technology.
 
 
 
