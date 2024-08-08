@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I5a2RsMzd0dXdpdXcwMWFwbmJlYmM0b2R6ZWlnMzJ3ajR5OTNqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0DKL9Jhyz8nKog/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFlcmhsYnF1cmlhOTB2d3lqNjdmMTVtbXA3MThuN2M5bTlvbmh1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQ252uVE10zIgE/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :technologist: About Me :
