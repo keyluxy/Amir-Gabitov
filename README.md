@@ -56,6 +56,14 @@ I am a Android Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjEx
 https://github-readme-streak-stats.herokuapp.com/?user=keyluxy
 
 
+        
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keyluxy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+    
+
+
+
+
     
 
 
